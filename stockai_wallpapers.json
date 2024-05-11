@@ -1,5 +1,725 @@
 [
         {
+            "name":"A15_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/A15/A15_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/A15/A15_1.jpg",
+            "collections":"A15",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"A15_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/A15/A15_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/A15/A15_2.jpg",
+            "collections":"A15",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"A15_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/A15/A15_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/A15/A15_3.jpg",
+            "collections":"A15",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"A15_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/A15/A15_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/A15/A15_4.jpg",
+            "collections":"A15",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_1.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_2.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_3.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_4.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_5.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_6.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_7.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"S18_Pro_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/S18_Pro/S18_Pro_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/S18_Pro/S18_Pro_8.jpg",
+            "collections":"S18_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_1.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_2.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_3.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_4.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_5.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_6.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_7.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_8.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_9.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_9.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_10.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_10.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_11.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_11.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_12.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_12.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_13.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_13.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_14.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_14.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X6_Pro_15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X6_Pro/X6_Pro_15.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X6_Pro/X6_Pro_15.jpg",
+            "collections":"X6_Pro",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_1.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_2.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_3.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_4.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_5.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_6.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_7.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Note_13_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Note_13/Note_13_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Note_13/Note_13_8.jpg",
+            "collections":"Note_13",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Find_X7_Ultra_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Find_X7_Ultra/Find_X7_Ultra_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Find_X7_Ultra/Find_X7_Ultra_1.jpg",
+            "collections":"Find_X7_Ultra",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Find_X7_Ultra_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Find_X7_Ultra/Find_X7_Ultra_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Find_X7_Ultra/Find_X7_Ultra_2.jpg",
+            "collections":"Find_X7_Ultra",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Find_X7_Ultra_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Find_X7_Ultra/Find_X7_Ultra_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Find_X7_Ultra/Find_X7_Ultra_3.jpg",
+            "collections":"Find_X7_Ultra",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Find_X7_Ultra_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Find_X7_Ultra/Find_X7_Ultra_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Find_X7_Ultra/Find_X7_Ultra_4.jpg",
+            "collections":"Find_X7_Ultra",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_1.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_2.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_3.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_4.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_5.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_6.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_7.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_8.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_9.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_9.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_10.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_10.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_11.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_11.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_12.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_12.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_13.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_13.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_14.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_14.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_15.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_15.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nova_12_16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nova_12/Nova_12_16.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nova_12/Nova_12_16.jpg",
+            "collections":"Nova_12",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Pixel_8A_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Pixel_8A/Pixel_8A_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Pixel_8A/Pixel_8A_1.jpg",
+            "collections":"Pixel_8A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_1.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_2.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_3.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_4.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_5.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_6.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_7.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_8.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_9",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_9.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_9.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_10",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_10.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_10.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_11",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_11.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_11.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_12",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_12.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_12.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_13",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_13.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_13.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_14",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_14.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_14.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_15",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_15.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_15.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Phone_2A_16",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Phone_2A/Phone_2A_16.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Phone_2A/Phone_2A_16.jpg",
+            "collections":"Phone_2A",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Pixel_8A_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Pixel_8A/Pixel_8A_1.jpg",
 			"author":"PizzApp Design",
