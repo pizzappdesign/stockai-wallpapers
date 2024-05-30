@@ -1,5 +1,85 @@
 [
         {
+            "name":"X100S_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_1.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_2.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_3.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_4.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_5.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_6.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_7.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"X100S_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/X100S/X100S_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/X100S/X100S_8.jpg",
+            "collections":"X100S",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Xperia_10_VI_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Xperia_10_VI/Xperia_10_VI_1.jpg",
 			"author":"PizzApp Design",
