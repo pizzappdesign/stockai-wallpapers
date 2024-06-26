@@ -1,5 +1,45 @@
 [
         {
+            "name":"Nord_CE_4_Lite_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nord_CE_4_Lite/Nord_CE_4_Lite_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nord_CE_4_Lite/Nord_CE_4_Lite_1.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nord_CE_4_Lite_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nord_CE_4_Lite/Nord_CE_4_Lite_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nord_CE_4_Lite/Nord_CE_4_Lite_2.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nord_CE_4_Lite_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nord_CE_4_Lite/Nord_CE_4_Lite_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nord_CE_4_Lite/Nord_CE_4_Lite_3.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Nord_CE_4_Lite_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nord_CE_4_Lite/Nord_CE_4_Lite_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nord_CE_4_Lite/Nord_CE_4_Lite_4.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Magic_V_Flip_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Magic_V_Flip/Magic_V_Flip_1.jpg",
 			"author":"PizzApp Design",
