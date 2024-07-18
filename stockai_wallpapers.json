@@ -1,5 +1,85 @@
 [
         {
+            "name":"Skyline_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_1.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_1.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_2.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_2.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_3.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_3.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_4.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_4.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_5",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_5.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_5.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_6",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_6.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_6.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_7",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_7.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_7.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Skyline_8",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Skyline/Skyline_8.jpg",
+			"author":"PizzApp Design",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Skyline/Skyline_8.jpg",
+            "collections":"HMD",
+			"dimensions":"1440x3200" ,
+			"copyright":"All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"HarmonyOS_Next_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/HarmonyOS_Next/HarmonyOS_Next_1.jpg",
 			"author":"PizzApp Design",
