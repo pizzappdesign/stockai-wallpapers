@@ -1,5 +1,41 @@
 [
         {
+            "name":"13_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/OnePlus/13/13_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/OnePlus/13/13_1.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"13_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/OnePlus/13/13_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/OnePlus/13/13_2.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"13_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/OnePlus/13/13_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/OnePlus/13/13_3.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"13_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/OnePlus/13/13_4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/OnePlus/13/13_4.jpg",
+            "collections":"OnePlus",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"ColorOS_15_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Oppo/ColorOS_15/ColorOS_15_1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Oppo/ColorOS_15/ColorOS_15_1.jpg",
