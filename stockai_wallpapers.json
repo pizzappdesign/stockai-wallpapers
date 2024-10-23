@@ -1,5 +1,41 @@
 [
         {
+            "name":"G75_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Motorola/G75/G75_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Motorola/G75/G75_1.jpg",
+            "collections":"Motorola",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"G75_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Motorola/G75/G75_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Motorola/G75/G75_2.jpg",
+            "collections":"Motorola",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"G75_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Motorola/G75/G75_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Motorola/G75/G75_3.jpg",
+            "collections":"Motorola",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"G75_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Motorola/G75/G75_4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Motorola/G75/G75_4.jpg",
+            "collections":"Motorola",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Phantom_V_Fold_2_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Tecno/Phantom_V_Fold_2/Phantom_V_Fold_2_1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Tecno/Phantom_V_Fold_2/Phantom_V_Fold_2_1.jpg",
