@@ -1,5 +1,41 @@
 [
 	    {
+            "name":"A16_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Samsung/A16/A16_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Samsung/A16/A16_1.jpg",
+            "collections":"Samsung",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"A16_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Samsung/A16/A16_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Samsung/A16/A16_2.jpg",
+            "collections":"Samsung",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"A16_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Samsung/A16/A16_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Samsung/A16/A16_3.jpg",
+            "collections":"Samsung",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"A16_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Samsung/A16/A16_4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Samsung/A16/A16_4.jpg",
+            "collections":"Samsung",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"G35_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Motorola/G35/G35_1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Motorola/G35/G35_1.jpg",
