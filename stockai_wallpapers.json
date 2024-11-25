@@ -73,9 +73,9 @@
         },
 		{
             "name":"Hot_50_1",
-            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nothing/Hot_50/Hot_50_1.jpg",
-			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nothing/Hot_50/Hot_50_1.jpg",
-            "collections":"Nothing",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Infinix/Hot_50/Hot_50_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Infinix/Hot_50/Hot_50_1.jpg",
+            "collections":"Infinix",
 			"dimensions":"1440x3200" ,
 			"copyright":"PizzApp Design - All Rights Reserved" ,
 			"downloadable":true
