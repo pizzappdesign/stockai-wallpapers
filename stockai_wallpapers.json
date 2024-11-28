@@ -1,5 +1,41 @@
 [
 	    {
+            "name":"GT_7_Pro_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Realme/GT_7_Pro/GT_7_Pro_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Realme/GT_7_Pro/GT_7_Pro_1.jpg",
+            "collections":"Realme",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"GT_7_Pro_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Realme/GT_7_Pro/GT_7_Pro_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Realme/GT_7_Pro/GT_7_Pro_2.jpg",
+            "collections":"Realme",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"GT_7_Pro_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Realme/GT_7_Pro/GT_7_Pro_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Realme/GT_7_Pro/GT_7_Pro_3.jpg",
+            "collections":"Realme",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"GT_7_Pro_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Realme/GT_7_Pro/GT_7_Pro_4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Realme/GT_7_Pro/GT_7_Pro_4.jpg",
+            "collections":"Realme",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"Phone_2A_Plus_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Nothing/Phone_2A_Plus/Phone_2A_Plus_1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Nothing/Phone_2A_Plus/Phone_2A_Plus_1.jpg",
