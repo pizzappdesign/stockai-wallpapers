@@ -1,5 +1,68 @@
 [
 	    {
+            "name":"Reno_4_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Oppo/Reno_4/Reno_4_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Oppo/Reno_4/Reno_4_1.jpg",
+            "collections":"Oppo",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Reno_4_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Oppo/Reno_4/Reno_4_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Oppo/Reno_4/Reno_4_2.jpg",
+            "collections":"Oppo",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Reno_4_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Oppo/Reno_4/Reno_4_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Oppo/Reno_4/Reno_4_3.jpg",
+            "collections":"Oppo",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Reno_4_4",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Oppo/Reno_4/Reno_4_4.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Oppo/Reno_4/Reno_4_4.jpg",
+            "collections":"Oppo",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Xperia_1_VII_1",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Sony/Xperia_1_VII/Xperia_1_VII_1.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Sony/Xperia_1_VII/Xperia_1_VII_1.jpg",
+            "collections":"Sony",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Xperia_1_VII_2",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Sony/Xperia_1_VII/Xperia_1_VII_2.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Sony/Xperia_1_VII/Xperia_1_VII_2.jpg",
+            "collections":"Sony",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
+            "name":"Xperia_1_VII_3",
+            "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Sony/Xperia_1_VII/Xperia_1_VII_3.jpg",
+			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Sony/Xperia_1_VII/Xperia_1_VII_3.jpg",
+            "collections":"Sony",
+			"dimensions":"1440x3200" ,
+			"copyright":"PizzApp Design - All Rights Reserved" ,
+			"downloadable":true
+        },
+		{
             "name":"15S_Pro_1",
             "url":"https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Wallpapers/Xiaomi/15S_Pro/15S_Pro_1.jpg",
 			"thumbnail": "https://raw.githubusercontent.com/pizzappdesign/stockai-wallpapers/main/Thumbnails/Xiaomi/15S_Pro/15S_Pro_1.jpg",
